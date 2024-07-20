@@ -1,0 +1,29 @@
+[33mcommit 1629c624b0adb178be3083b1f90d9135218c80a1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: anamsilva1981 <ana.msilva@hotmail.com>
+Date:   Sat Jul 20 17:20:58 2024 -0300
+
+    :start: adiciona modulos em home
+
+[33mcommit 9773d24123ddc1526e7b1d78b88a6a4e8dc04544[m
+Author: anamsilva1981 <ana.msilva@hotmail.com>
+Date:   Sat Jul 20 17:20:22 2024 -0300
+
+    :start: adiciona variaveis de ambiente
+
+[33mcommit caa08dbe40e9de847d44eebc055e9e7abfdfe999[m
+Author: anamsilva1981 <ana.msilva@hotmail.com>
+Date:   Sat Jul 20 17:19:57 2024 -0300
+
+    :star: adiciona rotas
+
+[33mcommit 150b591355e3ff1a12894d3ec5893e4f5a90c4a8[m
+Author: anamsilva1981 <ana.msilva@hotmail.com>
+Date:   Sat Jul 20 17:13:55 2024 -0300
+
+    :star: Commit inicial + criacao das pastas iniciais
+
+[33mcommit 3f11b57a6477980e2acf57f6b21083806c66a635[m
+Author: anamsilva1981 <ana.msilva@hotmail.com>
+Date:   Sat Jul 20 16:54:59 2024 -0300
+
+    initial commit
