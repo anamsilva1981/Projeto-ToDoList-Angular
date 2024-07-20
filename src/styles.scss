@@ -9,6 +9,18 @@
     font-weight: 400;
 }
 
+ul{
+    list-style: none;
+}
+
+textarea:focus, 
+input:focus, 
+button{ outline: none;}
+
+button{
+    cursor: pointer;
+}
+
 body{
     background: $primary-background-color;
 }
