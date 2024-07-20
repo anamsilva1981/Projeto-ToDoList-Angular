@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { TaskList } from '../../model/task-list';
 
 @Component({
   selector: 'app-todo-list',
@@ -7,4 +8,8 @@ import { Component } from '@angular/core';
 })
 export class TodoListComponent {
 
+  public taskList: Array<TaskList> = [
+    { task: "Minha nova task", checked: true},
+    { task: "Minha nova task 2", checked: false}
+  ];
 }
