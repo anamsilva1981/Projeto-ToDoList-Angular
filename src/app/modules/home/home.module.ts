@@ -11,8 +11,8 @@ import { HomeComponent } from './pages/home/home.component';
 @NgModule({
   declarations: [
     HeaderComponent,
-    TodoButtonDeleAllComponent,
-    TodoInputAddItensComponent,
+    TodoButtonDeleAllComponent, 
+    TodoInputAddItensComponent, 
     TodoListComponent,
     HomeComponent
   ],
